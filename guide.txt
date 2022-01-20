@@ -1,0 +1,11 @@
+
+There's nothing much to set up unless database.
+-If you don't want to create 'Cashier SQL' folder, you can cut it (Line 99, 603, 622, 643, 648 - gui.py).
+-By the way, you can clear the queries ONLY ON "ClientSide Query.sql". DO NOT TOY WITH OTHER FILES, UNLESS YOU KNOW WHAT YOU'RE DOING.
+
+Make sure you have required module installed.
+
+*Can't connect to printer to print bills yet*
+
+Sincerely,
+Farrel Dinarta
